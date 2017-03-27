@@ -35,5 +35,5 @@ Par exemple:
 Vous pouvez definir le langage utlisé pour mettre en évidence la syntaxe en ajoutant un nom sur un mot clé ouvrant. Exemple : 
 
     ```js
-    var a = {};
+    var a = {};.
     ```
